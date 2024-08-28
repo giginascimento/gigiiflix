@@ -1,7 +1,12 @@
 body{
     background-color: rgb(49, 1, 1);
     text-align: center;
+    border-color:palevioletred
 }
+header{
+    color: bisque;
+}
+
 h1{
     color: bisque;
 }
